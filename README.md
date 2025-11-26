@@ -73,8 +73,8 @@ Pré-selecionado e certificado pela **Feira Internacional FETEPS** por inovaçã
 ## 📫 Contato
 Se quiser trocar ideias ou colaborar em projetos, fique à vontade para me chamar:
 
-📧 **E-mail profissional:** *adicione aqui se quiser*  
-🔗 **LinkedIn:** *adicione aqui se quiser*  
+📧 **E-mail profissional:** *michelhenriquedossantossantos@gmail.com.br*  
+🔗 **LinkedIn:**https://www.linkedin.com/in/michel-santos-b62645164?utm_source=share_via&utm_content=profile&utm_medium=member_android**  
 
 ---
 
