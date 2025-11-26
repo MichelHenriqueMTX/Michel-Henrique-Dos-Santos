@@ -14,6 +14,7 @@ formacao = ["Desenvolvimento de Sistemas", "Informática"]
 curso_atual = "Ciência da Computação (2026)"
 empresa = "Usina Cevasa"
 setores = ["COA", "CMT"]
+WhatsApp = ["(16) 999869304"]
 tecnologias = ["Solinftec", "Alarcon (SGPA)", "Flow", "PIMS", "Zeus"]
 analitico = True
 foco_resultado = True
