@@ -14,7 +14,7 @@ formacao = ["Desenvolvimento de Sistemas", "Informática"]
 curso_atual = "Ciência da Computação (2026)"
 empresa = "Usina Cevasa"
 setores = ["Balança","COA", "CMT"]
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/3ce23651-63ea-4cd8-84f4-ac271b452222" /> WhatsApp = ["(16) 999869304"]
+WhatsApp = ["(16) 999869304"]
 tecnologias = ["Solinftec", "Alarcon (SGPA)", "Flow", "PIMS", "Zeus"]
 analitico = True
 foco_resultado = True
